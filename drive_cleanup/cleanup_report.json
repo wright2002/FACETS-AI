@@ -1,0 +1,31 @@
+{
+  "duplicate_files": [
+    {
+      "hash_sha256": "65a02c13071c3b4980e702744641689c22f120a50fd82a2b556c212982724bed",
+      "files": [
+        "D:\\drive_cleanup_testing_bed\\file1.txt",
+        "D:\\drive_cleanup_testing_bed\\subdir1\\file4.txt"
+      ],
+      "keep": "D:\\drive_cleanup_testing_bed\\file1.txt",
+      "remove": [
+        "D:\\drive_cleanup_testing_bed\\subdir1\\file4.txt"
+      ]
+    },
+    {
+      "hash_sha256": "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0268e9891562113d8a62add1bf",
+      "files": [
+        "D:\\drive_cleanup_testing_bed\\file3.txt",
+        "D:\\drive_cleanup_testing_bed\\subdir1\\subsubdir1\\file5.txt"
+      ],
+      "keep": "D:\\drive_cleanup_testing_bed\\file3.txt",
+      "remove": [
+        "D:\\drive_cleanup_testing_bed\\subdir1\\subsubdir1\\file5.txt"
+      ]
+    }
+  ],
+  "summary": {
+    "total_files_scanned": 8,
+    "total_duplicate_sets": 2,
+    "total_duplicate_files": 4
+  }
+}

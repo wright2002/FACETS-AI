@@ -1,0 +1,74 @@
+[
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\file1.txt",
+    "name": "file1.txt",
+    "size_bytes": 29,
+    "created": "2025-05-27T09:26:57.750459",
+    "modified": "2025-05-27T11:23:41.646494",
+    "mime_type": "text/plain",
+    "hash_sha256": "65a02c13071c3b4980e702744641689c22f120a50fd82a2b556c212982724bed"
+  },
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\file2.docx",
+    "name": "file2.docx",
+    "size_bytes": 13353,
+    "created": "2025-05-27T09:27:09.584922",
+    "modified": "2025-05-27T11:23:10.221358",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "hash_sha256": "68290435c54a1df0b3f7d190edf19d3fda46cdb001b3acb02ad60fe81bb5fabd"
+  },
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\file3.txt",
+    "name": "file3.txt",
+    "size_bytes": 6,
+    "created": "2025-05-27T09:27:53.879408",
+    "modified": "2025-05-27T09:29:57.568385",
+    "mime_type": "text/plain",
+    "hash_sha256": "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0268e9891562113d8a62add1bf"
+  },
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\slides1.pptx",
+    "name": "slides1.pptx",
+    "size_bytes": 33208,
+    "created": "2025-05-27T09:27:36.236387",
+    "modified": "2025-05-27T11:22:52.867880",
+    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "hash_sha256": "057fad342c2b661905c35d08ccd5429ad343493b1d6d88250bf63b46296cbeb1"
+  },
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\doc1.docx",
+    "name": "doc1.docx",
+    "size_bytes": 13353,
+    "created": "2025-05-27T09:31:40.348438",
+    "modified": "2025-05-27T11:24:08.660701",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "hash_sha256": "2d221e77b5de6ed8093691f0bdff611794f2931faf374cdaea50b5b0ed9176f6"
+  },
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\file4.txt",
+    "name": "file4.txt",
+    "size_bytes": 29,
+    "created": "2025-05-27T11:23:50.813083",
+    "modified": "2025-05-27T11:23:41.646494",
+    "mime_type": "text/plain",
+    "hash_sha256": "65a02c13071c3b4980e702744641689c22f120a50fd82a2b556c212982724bed"
+  },
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\subsubdir1\\file5.txt",
+    "name": "file5.txt",
+    "size_bytes": 6,
+    "created": "2025-05-27T11:33:45.392345",
+    "modified": "2025-05-27T09:29:57.568385",
+    "mime_type": "text/plain",
+    "hash_sha256": "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0268e9891562113d8a62add1bf"
+  },
+  {
+    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\subsubdir1\\slides2.pptx",
+    "name": "slides2.pptx",
+    "size_bytes": 34086,
+    "created": "2025-05-27T11:33:04.393663",
+    "modified": "2025-05-27T11:33:30.297264",
+    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "hash_sha256": "c9780d29b470a7b92b91e50609981e83cb1ef68ee2e6b146febbf9d457ee8925"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  ".": {
+    "full_path": "D:\\drive_cleanup_testing_bed\\",
+    "file_count": 4,
+    "subdir_count": 1
+  },
+  "subdir1": {
+    "full_path": "D:\\drive_cleanup_testing_bed\\subdir1",
+    "file_count": 2,
+    "subdir_count": 1
+  },
+  "subdir1\\subsubdir1": {
+    "full_path": "D:\\drive_cleanup_testing_bed\\subdir1\\subsubdir1",
+    "file_count": 2,
+    "subdir_count": 0
+  }
+}
