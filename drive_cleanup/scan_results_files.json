@@ -1,74 +1,218 @@
 [
   {
-    "path": "D:\\drive_cleanup_testing_bed\\file1.txt",
-    "name": "file1.txt",
-    "size_bytes": 29,
-    "created": "2025-05-27T09:26:57.750459",
-    "modified": "2025-05-27T11:23:41.646494",
-    "mime_type": "text/plain",
-    "hash_sha256": "65a02c13071c3b4980e702744641689c22f120a50fd82a2b556c212982724bed"
+    "path": "D:\\AI_files_variety\\000943.png",
+    "name": "000943.png",
+    "size_bytes": 51770,
+    "created": "2025-05-29T14:34:40.885937",
+    "modified": "2025-05-28T16:11:41.278552",
+    "mime_type": "image/png",
+    "hash_sha256": "3feb797cdc9aef2dfe5b76a669afb3249d26cd7b6589e8cf204359d51da660d2"
   },
   {
-    "path": "D:\\drive_cleanup_testing_bed\\file2.docx",
-    "name": "file2.docx",
-    "size_bytes": 13353,
-    "created": "2025-05-27T09:27:09.584922",
-    "modified": "2025-05-27T11:23:10.221358",
+    "path": "D:\\AI_files_variety\\1000.1G (s).pdf",
+    "name": "1000.1G (s).pdf",
+    "size_bytes": 977871,
+    "created": "2025-05-29T08:30:46",
+    "modified": "2025-05-29T13:24:04.342080",
+    "mime_type": "application/pdf",
+    "hash_sha256": "75e5606260995b0f9f4dd058c51e4d4a7fcc1942932e78ad84a190b02a3f8f4f"
+  },
+  {
+    "path": "D:\\AI_files_variety\\1000.9B (SEARCHABLE).pdf",
+    "name": "1000.9B (SEARCHABLE).pdf",
+    "size_bytes": 587322,
+    "created": "2025-05-29T08:27:34",
+    "modified": "2025-05-29T13:24:04.346883",
+    "mime_type": "application/pdf",
+    "hash_sha256": "e8c4d462d449cacba9a821aa64435349b932b36128992a1589112d79c17595a8"
+  },
+  {
+    "path": "D:\\AI_files_variety\\1120.3C (EDITABLE).pdf",
+    "name": "1120.3C (EDITABLE).pdf",
+    "size_bytes": 795027,
+    "created": "2025-05-29T08:27:42",
+    "modified": "2025-05-29T13:24:04.362555",
+    "mime_type": "application/pdf",
+    "hash_sha256": "262fa8835935528f07b6d987c3f418731903375ae6ce9193efd35fb1676f1e61"
+  },
+  {
+    "path": "D:\\AI_files_variety\\12511.1B (EDITABLE).pdf",
+    "name": "12511.1B (EDITABLE).pdf",
+    "size_bytes": 479195,
+    "created": "2025-05-29T08:28:06",
+    "modified": "2025-05-29T13:24:04.362555",
+    "mime_type": "application/pdf",
+    "hash_sha256": "55f072eef9f29b198ea7dd0aae911a7f2bb50f4c16ff0924bf3c1448eef6f1ff"
+  },
+  {
+    "path": "D:\\AI_files_variety\\12792.1C (SEARCHABLE).pdf",
+    "name": "12792.1C (SEARCHABLE).pdf",
+    "size_bytes": 955241,
+    "created": "2025-05-29T08:28:26",
+    "modified": "2025-05-29T13:24:04.378352",
+    "mime_type": "application/pdf",
+    "hash_sha256": "d96b51329c60915dbc966f2f5adc41c56022d102a5d3254111700c5a8ffa0838"
+  },
+  {
+    "path": "D:\\AI_files_variety\\1770.1.pdf",
+    "name": "1770.1.pdf",
+    "size_bytes": 563390,
+    "created": "2025-05-29T08:28:40",
+    "modified": "2025-05-29T13:24:04.387510",
+    "mime_type": "application/pdf",
+    "hash_sha256": "ba209205732f970a2a732eee537ae0d7a71c9f73d85a1d02d7fa59579a62ff8c"
+  },
+  {
+    "path": "D:\\AI_files_variety\\18-003.docx",
+    "name": "18-003.docx",
+    "size_bytes": 93732,
+    "created": "2018-04-08T16:34:28",
+    "modified": "2025-05-29T13:24:04.387510",
     "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-    "hash_sha256": "68290435c54a1df0b3f7d190edf19d3fda46cdb001b3acb02ad60fe81bb5fabd"
+    "hash_sha256": "8844975301447de90aa728f08a3b2f3a8361f038c17560f792a7869c292dfb42"
   },
   {
-    "path": "D:\\drive_cleanup_testing_bed\\file3.txt",
-    "name": "file3.txt",
-    "size_bytes": 6,
-    "created": "2025-05-27T09:27:53.879408",
-    "modified": "2025-05-27T09:29:57.568385",
-    "mime_type": "text/plain",
-    "hash_sha256": "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0268e9891562113d8a62add1bf"
-  },
-  {
-    "path": "D:\\drive_cleanup_testing_bed\\slides1.pptx",
-    "name": "slides1.pptx",
-    "size_bytes": 33208,
-    "created": "2025-05-27T09:27:36.236387",
-    "modified": "2025-05-27T11:22:52.867880",
-    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-    "hash_sha256": "057fad342c2b661905c35d08ccd5429ad343493b1d6d88250bf63b46296cbeb1"
-  },
-  {
-    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\doc1.docx",
-    "name": "doc1.docx",
-    "size_bytes": 13353,
-    "created": "2025-05-27T09:31:40.348438",
-    "modified": "2025-05-27T11:24:08.660701",
+    "path": "D:\\AI_files_variety\\18-007.docx",
+    "name": "18-007.docx",
+    "size_bytes": 88782,
+    "created": "2018-07-14T16:07:10",
+    "modified": "2025-05-29T13:24:04.394090",
     "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-    "hash_sha256": "2d221e77b5de6ed8093691f0bdff611794f2931faf374cdaea50b5b0ed9176f6"
+    "hash_sha256": "b9960fa5346162973b10d0ce4a041b13cd386b932c0e34d4642c5f50b476fa85"
   },
   {
-    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\file4.txt",
-    "name": "file4.txt",
-    "size_bytes": 29,
-    "created": "2025-05-27T11:23:50.813083",
-    "modified": "2025-05-27T11:23:41.646494",
-    "mime_type": "text/plain",
-    "hash_sha256": "65a02c13071c3b4980e702744641689c22f120a50fd82a2b556c212982724bed"
+    "path": "D:\\AI_files_variety\\18-009.docx",
+    "name": "18-009.docx",
+    "size_bytes": 89347,
+    "created": "2018-07-15T08:39:00",
+    "modified": "2025-05-29T13:24:04.394090",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "hash_sha256": "c68177abfe8ff5c3a0126867a8e4975b878947c2388c5405c10638c64b239e2d"
   },
   {
-    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\subsubdir1\\file5.txt",
-    "name": "file5.txt",
-    "size_bytes": 6,
-    "created": "2025-05-27T11:33:45.392345",
-    "modified": "2025-05-27T09:29:57.568385",
-    "mime_type": "text/plain",
-    "hash_sha256": "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0268e9891562113d8a62add1bf"
+    "path": "D:\\AI_files_variety\\18-010 IDT Rev1.pdf",
+    "name": "18-010 IDT Rev1.pdf",
+    "size_bytes": 116295,
+    "created": "2018-07-15T15:26:50",
+    "modified": "2025-05-29T13:24:04.394090",
+    "mime_type": "application/pdf",
+    "hash_sha256": "7382a203d87caaa49afb58401081dbfab52dbccf6b298dd381eeec4f9cfd9f7c"
   },
   {
-    "path": "D:\\drive_cleanup_testing_bed\\subdir1\\subsubdir1\\slides2.pptx",
-    "name": "slides2.pptx",
-    "size_bytes": 34086,
-    "created": "2025-05-27T11:33:04.393663",
-    "modified": "2025-05-27T11:33:30.297264",
+    "path": "D:\\AI_files_variety\\3574.1.pdf",
+    "name": "3574.1.pdf",
+    "size_bytes": 1426484,
+    "created": "2025-05-29T08:29:56",
+    "modified": "2025-05-29T13:24:04.425750",
+    "mime_type": "application/pdf",
+    "hash_sha256": "21da40a92e7d2c3b171910727e42cc379062cd14ecdeeafdd6e7f395574835e2"
+  },
+  {
+    "path": "D:\\AI_files_variety\\4b  Getting Started with APACS.PPTX",
+    "name": "4b  Getting Started with APACS.PPTX",
+    "size_bytes": 3443059,
+    "created": "2016-06-21T13:05:24",
+    "modified": "2025-05-29T13:24:04.451527",
     "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-    "hash_sha256": "c9780d29b470a7b92b91e50609981e83cb1ef68ee2e6b146febbf9d457ee8925"
+    "hash_sha256": "f8385d359793d3984078bcf0dc13e39e77172b0a217f45b606934a1d710f4193"
+  },
+  {
+    "path": "D:\\AI_files_variety\\5100.4H(1).pdf",
+    "name": "5100.4H(1).pdf",
+    "size_bytes": 309372,
+    "created": "2025-05-29T13:30:25.324723",
+    "modified": "2025-05-29T13:24:04.457176",
+    "mime_type": "application/pdf",
+    "hash_sha256": "f2b5ff323b3498cca4536e07d2db5777a1b5ce59e9ec35c1e00477fded58c7d0"
+  },
+  {
+    "path": "D:\\AI_files_variety\\5100.4H(2).pdf",
+    "name": "5100.4H(2).pdf",
+    "size_bytes": 309372,
+    "created": "2025-05-29T08:29:06",
+    "modified": "2025-05-29T13:24:04.457176",
+    "mime_type": "application/pdf",
+    "hash_sha256": "f2b5ff323b3498cca4536e07d2db5777a1b5ce59e9ec35c1e00477fded58c7d0"
+  },
+  {
+    "path": "D:\\AI_files_variety\\5420.1 (S).pdf",
+    "name": "5420.1 (S).pdf",
+    "size_bytes": 506300,
+    "created": "2025-05-29T08:29:46",
+    "modified": "2025-05-29T13:24:04.457176",
+    "mime_type": "application/pdf",
+    "hash_sha256": "84627db087b9193f0973da2b6805655d2bea640af2f57d1b88f8e2a657a9e985"
+  },
+  {
+    "path": "D:\\AI_files_variety\\COMNAVRESFORCOM 1650.13C SIGNED INSTRUCTION.pdf",
+    "name": "COMNAVRESFORCOM 1650.13C SIGNED INSTRUCTION.pdf",
+    "size_bytes": 257386,
+    "created": "2025-05-29T08:30:26",
+    "modified": "2025-05-29T13:24:04.472907",
+    "mime_type": "application/pdf",
+    "hash_sha256": "be1c27d636dd1904e11c663182e4a769887f1538022686a60bac72a46f6d148f"
+  },
+  {
+    "path": "D:\\AI_files_variety\\Cyber Awareness Challenge V3.pdf",
+    "name": "Cyber Awareness Challenge V3.pdf",
+    "size_bytes": 84361,
+    "created": "2016-05-15T11:57:18",
+    "modified": "2025-05-29T13:24:04.472907",
+    "mime_type": "application/pdf",
+    "hash_sha256": "b6d62138395af0a37109018bc7b9a46c989ddf2264c149b131815c917bfc72bf"
+  },
+  {
+    "path": "D:\\AI_files_variety\\DG Step by Step Guide to Update Your Record of Emergency Data V2.pdf",
+    "name": "DG Step by Step Guide to Update Your Record of Emergency Data V2.pdf",
+    "size_bytes": 177813,
+    "created": "2019-10-08T16:02:20",
+    "modified": "2025-05-29T13:24:04.472907",
+    "mime_type": "application/pdf",
+    "hash_sha256": "7ac3f97d797a5b8b87f0686c3ecc681ef46554e9319cbd32797da244965e5646"
+  },
+  {
+    "path": "D:\\AI_files_variety\\Millennium User Guide to Jira in Naval Lift (1).pdf",
+    "name": "Millennium User Guide to Jira in Naval Lift (1).pdf",
+    "size_bytes": 1467327,
+    "created": "2023-08-03T12:03:14",
+    "modified": "2025-05-29T13:24:04.488990",
+    "mime_type": "application/pdf",
+    "hash_sha256": "2d9f9dd664526ccc62254d8b6982e9aa9050a5b7d073e2cfb03d3c75031d831d"
+  },
+  {
+    "path": "D:\\AI_files_variety\\NC Citation Template.docx",
+    "name": "NC Citation Template.docx",
+    "size_bytes": 40533,
+    "created": "2018-04-07T15:35:20",
+    "modified": "2025-05-29T13:24:04.488990",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "hash_sha256": "79bef92b989265ff2e0aae03a249866f3aeeeaff37ec061da80e8fe3a38970a1"
+  },
+  {
+    "path": "D:\\AI_files_variety\\NP2 Training Plan v3.5_BP_Edits.docx",
+    "name": "NP2 Training Plan v3.5_BP_Edits.docx",
+    "size_bytes": 492509,
+    "created": "2022-10-28T15:45:10",
+    "modified": "2025-05-29T13:24:04.505045",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "hash_sha256": "d77e3799d655ad1a3645b8fe5bebc920123d3865cc6b20f30f45c95df4117502"
+  },
+  {
+    "path": "D:\\AI_files_variety\\TDD Process Flowchart.pdf",
+    "name": "TDD Process Flowchart.pdf",
+    "size_bytes": 241856,
+    "created": "2022-12-06T11:34:00",
+    "modified": "2025-05-29T13:24:04.510870",
+    "mime_type": "application/pdf",
+    "hash_sha256": "06bd2e6a4d5e9879e1191dd34fa8db3f1b59094f4834a01edf35ae0f12e10d04"
+  },
+  {
+    "path": "D:\\AI_files_variety\\Wilkin Travel Card 101 Certificate.PNG",
+    "name": "Wilkin Travel Card 101 Certificate.PNG",
+    "size_bytes": 695810,
+    "created": "2015-10-16T09:58:58",
+    "modified": "2025-05-29T13:24:04.520892",
+    "mime_type": "image/png",
+    "hash_sha256": "5677c783596e8d14ccd1014d5ed8fd5abe0b4bb6d4eec44549165b9f9233e15c"
   }
 ]

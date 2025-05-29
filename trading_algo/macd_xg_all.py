@@ -48,8 +48,10 @@ df.dropna(subset=['label'], inplace=True)
 df['label'] = df['label'].astype(int)
 
 # === Define features ===
-features = ['open', 'high', 'low', 'close', 'VWAP', 'Volume', 'RSI',
-            'Histogram', 'MACD', 'Signal', 'MACD_Signal_Diff', 'Steps_Since_Crossover']
+features = ['open', 'high', 'low', 'close', 'VWAP', 'Upper_Band_#1',
+       'Lower_Band_#1', 'Upper_Band_#2', 'Lower_Band_#2', 'Upper_Band_#3',
+       'Lower_Band_#3', 'Volume', 'RSI', 'RSI-based_MA', 'Histogram', 'MACD',
+       'Signal', 'ATR', 'MACD_Signal_Diff', 'Steps_Since_Crossover']
 X = df[features]
 y = df['label']
 

@@ -52,8 +52,10 @@ def scan_directory(root_path):
 
     return file_data, directory_summary
 
+drive = input("Enter the full path to the drive: ")
+
 # write dictionaries to json files
-scanned_files, scanned_dirs = scan_directory("D:\\drive_cleanup_testing_bed\\")
+scanned_files, scanned_dirs = scan_directory(drive)
 json_files = json.dumps(scanned_files, indent=2)
 json_dirs = json.dumps(scanned_dirs, indent=2)
 with open("scan_results_files.json", "w") as f:
